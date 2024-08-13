@@ -3,7 +3,7 @@
 ## For E3DV6 radiator and CHC Pro mount
 - Long Fan Holder;
 - Long Brace for Probe Mount.
-... but we can use detail from volcomosq_hotend ...
+- ... but we can use detail from volcomosq_hotend ...
 
 ## K3 power button mount to front profile for BTT Relay.
 
